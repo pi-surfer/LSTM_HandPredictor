@@ -1,6 +1,8 @@
 # Hand Gesture Classification for Robotic Prosthesis Control
 
-This repository contains code to implement hand gesture classification using LSTM networks. The study is based on the work by Kirill Yashuk, with modifications aimed at improving the network's performance and understanding its limitations when controlling a robotic prosthesis. This project was conducted under the 
+This repository contains code to implement hand gesture classification using LSTM networks. The study is based on the work by Kirill Yashuk, with modifications aimed at improving the network's performance and understanding its limitations when controlling a robotic prosthesis.
+
+This project is part of the "Deep learning applied to neuroscience and rehabilitation" class, Bioengineering Master, University of Padua.
 
 ## Summary
 
